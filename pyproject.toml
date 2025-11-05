@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "ice-cream-dataops"
+version = "0.1.0"
+description = "Cognite ice cream dataops"
+authors = ["Ruben Gonzalez <ruben_gonzalez@sierracol.com.co>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+cognite-toolkit = "0.6.53"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
