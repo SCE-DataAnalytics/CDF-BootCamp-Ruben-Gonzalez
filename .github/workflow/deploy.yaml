@@ -2,7 +2,7 @@ name: Deploy Toolkit
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - ice-cream-dataops/**  # Make sure this matches default_organization_dir in cdf.toml
   workflow_dispatch:
