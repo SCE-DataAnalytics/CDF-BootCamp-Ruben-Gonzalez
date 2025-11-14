@@ -1,7 +1,7 @@
 - name: Ice Cream API DataPoints Extractor
   externalId: icapi_datapoints_extractor
   owner: Bootcamp Team
-  description: Extracts DataPoints data from the Ice_Cream API
+  description: Extracts DataPoints data from the Ice_Cream API 2
   metadata:
     version: "1.0"
   runtime: py311
